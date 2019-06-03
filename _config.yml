@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "jinwoo1225"
+title                    : "한국말 못하는 한국산 프로그래머"
 title_separator          : "-"
 name                     : "홍진우"
 description              : "한국말 못하는 한국산 프로그래머"
