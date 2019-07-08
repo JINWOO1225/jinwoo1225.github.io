@@ -1,7 +1,7 @@
 ---
-title: "Hello world!!"
+title: "Hello world"
 date: 2019-07-08 00:27:00 -0900
-categories:Hello World
+categories:
 ---
 
 #Hello world!
